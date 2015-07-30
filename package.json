@@ -1,0 +1,10 @@
+{
+  "name": "generator-starter-kit",
+  "version": "0.1.0",
+  "description": "",
+  "files": [],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.17.3"
+  }
+}
